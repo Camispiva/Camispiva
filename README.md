@@ -8,7 +8,7 @@
 </div>
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamisPiva&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamisPiva&theme=dracula&hide_border=false&&layout=compact"/><br /> <img heigth="350" align="auto"src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
+         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamisPiva&theme=dracula&hide_border=false&&layout=compact"/><br />
 </div>
 
 <div align="center" valign="top"><br>
@@ -29,6 +29,7 @@
 <div align="center">
   <a href="https://www.instagram.com/camis_piva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+<img heigth="350" align="auto" src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
