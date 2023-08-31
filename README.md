@@ -26,7 +26,7 @@
 
 </div><br>
 ##
-<img heigth="350" align="auto" src="https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif">
+
 <div align="center">
   <a href="https://www.instagram.com/camis_piva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
@@ -35,4 +35,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/CamisPiva}/count.svg" /></p> 
 <img height="350" align="auto" src="https://media.giphy.com/media/aN9GqoR7OD3nq/giphy.gif">
+<img heigth="350" align="auto" src="https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif">
 </div>
