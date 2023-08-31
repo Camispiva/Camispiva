@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <h1 align="center">Hello I'm <i>Camilla Piva</i></a> 🫡</h1>
+  <h1 align="center">Hello I'm <i>Camilla Piva</i></a> 🫡</h1> <img heigth="100" align="auto" src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
   <p align="center">I am a programming student</h2>
 </div>
 <div align="center">
@@ -24,12 +24,10 @@
 </p>
 
 </div><br>
-##
 
 <div align="center">
   <a href="https://www.instagram.com/camis_piva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<img heigth="350" align="auto" src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
