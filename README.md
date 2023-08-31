@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/Camispiva)
 </p>
-
+<img heigth="50" align="50" src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
 <div>
   <h1 align="center">Hello I'm <i>Camilla Piva</i></a> 🫡</h1>
   <p align="center">I am a programming student</h2>
