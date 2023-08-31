@@ -4,9 +4,8 @@
 
 <div>
   <h1 align="center">Hello I'm <i>Camilla Piva</i></a> 🫡</h1>
-  <p align="center">I am a programming student</h2>
+  <p align="center">I am a programming student</h2> <img heigth="350" align="auto" src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
 </div>
-<img heigth="350" align="auto" src="https://media.giphy.com/media/q09D9LZHWn446gkTwj/giphy.gif">
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamisPiva&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamisPiva&theme=dracula&hide_border=false&&layout=compact"/><br />
